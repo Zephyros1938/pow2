@@ -1,0 +1,6 @@
+/target
+./**/*.tar.gz
+OUTPUT*
+*.gz
+*.tar
+*.tar.gz
